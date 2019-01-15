@@ -1,5 +1,9 @@
 # Moodle Classmates
 
+## Use
+
+> 看看誰跟你一起修了最多課
+
 ## Usage
 
 `python main.py username password`
